@@ -4,6 +4,6 @@
 ```js
 const client = new Client(options);
 ```
-|  PARAMETER   |      TYPE      |  OPTIONAL |   DEFAULT |   DESCRIPTION |
-|:--------------:|:--------------:|:----------:|:----------:|:----------:
-| options |  [ClientOptions](https://github.com/discord-interactions/discord-interactions.js/blob/master/src/client/ClientOptions.ts) | Yes | none | Options for Client
+| PARAMETER |        TYPE        |      OPTIONAL      | DEFAULT |       DESCRIPTION      |
+|:---------:|:------------------:|:------------------:|:-------:|:----------------------:|
+|  options  | [ClientOptions](/types/ClientOptions) | :white_check_mark: |   none  | Options for the Client |
